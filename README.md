@@ -22,5 +22,8 @@ Scales:
 - Download [Audacity](https://www.audacity.de/)
 - Open Audacity, drag and drop the created wav-files to Audacity and listen to the different scales
 
+In Audacity it should look like this:
 ![](doc/screenshot_audacity.PNG)
+
+In the ```create_wav_files.ipynb``` you can see the underlying:
 ![](doc/screenshot_notebook.PNG)
